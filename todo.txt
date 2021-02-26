@@ -1,0 +1,6 @@
+#1 Maak een module pattern- voor een generate-Module
+#2 Hierin maken we een timer die:
+- Punten tekent vanuit het middelpunt
+- om de seconde (timer kan geannuleerd worden)
+- exponentieel punten erbij rendert
+- een bepaalde bovenlimit heeft (in te stellen)

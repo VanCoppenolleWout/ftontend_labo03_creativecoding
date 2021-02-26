@@ -1,0 +1,22 @@
+:root {
+    --global-theme-color-base: hsl(216, 100%, 95%);
+}
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: var(--global-theme-color-base);
+}
+
+body {
+    overflow: hidden;
+}
+
+canvas {
+    cursor: none;
+}
